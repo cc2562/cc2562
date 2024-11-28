@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![CCRICE's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ccrice/github-readme-stats)
+[![CCRICE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccrice)](https://github.com/ccrice/github-readme-stats)
 
 <!--
 **cc2562/cc2562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
